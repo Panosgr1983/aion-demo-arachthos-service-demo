@@ -1,0 +1,72 @@
+{
+ "slug": "arachthos-service",
+ "archetype": "trades",
+ "signature": "sig-grid-a28abd",
+ "motif": "grid",
+ "palette": {
+  "ink": "#231a0f",
+  "paper": "#fffaf3",
+  "accentSource": "#b45309",
+  "accentOnLight": "#b45309",
+  "accentOnDark": "#c5773d"
+ },
+ "contrast": [
+  {
+   "pair": "ink/paper",
+   "ratio": 16.49,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "paper/ink",
+   "ratio": 16.49,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "accentOnLight/paper",
+   "ratio": 4.84,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "paper/accentOnLight",
+   "ratio": 4.84,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "ink/soft",
+   "ratio": 14.99,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "accentOnDark/ink",
+   "ratio": 4.96,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "body66/paper",
+   "ratio": 5.43,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "body62/ink",
+   "ratio": 7.78,
+   "min": 4.5,
+   "pass": true
+  },
+  {
+   "pair": "body76/paper",
+   "ratio": 7.63,
+   "min": 4.5,
+   "pass": true
+  }
+ ],
+ "contrastPass": true,
+ "builtAt": "2026-11-20T20:43:53.676Z",
+ "bytes": 29387
+}
